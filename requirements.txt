@@ -1,0 +1,4 @@
+os==latest
+json==latest
+sys==latest
+pkg_resources==latest
